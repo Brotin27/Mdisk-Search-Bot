@@ -18,7 +18,7 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='http://t.me/mdisk_searche_bot'>Mdisk Search Robot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
@@ -26,10 +26,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/Am_RoBots'>ᎯℕUℛᎯᎶ</a></b>
+👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bots'>GreyMatter_Bots</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Am_RoBots'>ᎯℕUℛᎯᎶ</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/GreyMatter_Owner'>GreyMatter's</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -41,7 +41,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Am_RoBots</a></b>
+<a>Made With ❤ By @GreyMatter_Bots</a></b>
 """
 
 
@@ -52,6 +52,6 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Am_RoBots</a></b>
+<a>Made With ❤ By @GreyMatter_Bots</a></b>
 """
 
