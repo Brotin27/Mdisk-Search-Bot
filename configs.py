@@ -1,5 +1,3 @@
-# (c) @AM_ROBOTS
-
 import os
 
 
